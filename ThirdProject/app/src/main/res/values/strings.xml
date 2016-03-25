@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThirdProject</string>
+    <string name="btnMais">+</string>
+    <string name="btnMenos">-</string>
+    <string name="btnVezes">*</string>
+    <string name="btnDividir">/</string>
+    <string name="txtZero">0</string>
+    <string name="btnLimpar">Limpar</string>
+</resources>
